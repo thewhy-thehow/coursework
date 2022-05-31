@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#구구단
 int main()
 {
     int j;
@@ -13,3 +13,4 @@ int main()
 
     return 0;
 }
+
